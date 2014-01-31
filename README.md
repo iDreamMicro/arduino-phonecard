@@ -1,4 +1,7 @@
-Phoncard Arduino library by iDreamMicro
+arduino-phonecard
+=================
+
+Phonecard Arduino library by iDreamMicro
 Copyright (C) 2014 Julien Le Sech - www.idreammicro.com
 
 This library is free software: you can redistribute it and/or modify it under
