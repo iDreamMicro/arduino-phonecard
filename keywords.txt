@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For Phonecard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ServiceCodes	KEYWORD1
+ServiceCode_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initialize	KEYWORD2
+getCodePro	KEYWORD2
+getSerialNumber	KEYWORD2
+getServiceCode	KEYWORD2
+getUnitNumber	KEYWORD2
+getCounter512	KEYWORD2
+getCounter64	KEYWORD2
+getCounter8	KEYWORD2
+getCounter1	KEYWORD2
+getRemainingUnitCount	KEYWORD2
+initialize	KEYWORD2
+reset	KEYWORD2
+read	KEYWORD2
+dumpMemory	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Phonecard	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PHONECARD__MEMORY_SIZE	LITERAL1
+PHONECARD__SIZE_OF_SERIAL_NUMBER	LITERAL1
+
